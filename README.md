@@ -19,6 +19,8 @@
 
 `git clone https://github.com/Katilmami/termux-ngrok`
 
+`cd termux-ngrok`
+
 ### After installing
 
 `chmod +x mami.sh`
