@@ -9,7 +9,7 @@
 
 ### > Requirements:
 
-### wget
+ `wget`
 
 ### Requirements install:
 
